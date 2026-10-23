@@ -1,0 +1,3 @@
+cycle,n,reported_duration_available,derived_duration_available,consistent_30m,consistent_1h,median_abs_difference,mean_abs_difference,pct_consistent_30m,pct_consistent_1h
+2015-2016,5735,5707,5708,5707,5707,0.0,0.014117166053384731,100.0,100.0
+2017-2018,5533,5489,5456,5456,5456,0.0,0.011103983382209187,99.39879759519037,99.39879759519037

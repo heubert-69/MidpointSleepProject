@@ -1,0 +1,22 @@
+artifact_path: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/models/m-da39db31f56842ab8efe763ac8f83942/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-da39db31f56842ab8efe763ac8f83942
+model_size_bytes: 1684255
+model_uuid: m-da39db31f56842ab8efe763ac8f83942
+prompts: null
+run_id: a1808ea3e6a14b5f87a892af3ea96733
+utc_time_created: '2026-10-19 12:27:34.916897'

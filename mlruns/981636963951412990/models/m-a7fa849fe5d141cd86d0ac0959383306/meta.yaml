@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/models/m-a7fa849fe5d141cd86d0ac0959383306/artifacts
+creation_timestamp: 1792603997106
+experiment_id: '981636963951412990'
+last_updated_timestamp: 1792604017130
+model_id: m-a7fa849fe5d141cd86d0ac0959383306
+model_type: null
+name: model
+source_run_id: cd2776e11dcd458db042012fc234f31d
+status: 2
+status_message: null

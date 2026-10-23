@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/5ec0631fc83742c0b367b1056ec7c236/artifacts
+end_time: 1792605136851
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: 5ec0631fc83742c0b367b1056ec7c236
+run_name: CatBoostRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792604880254
+status: 3
+tags: []
+user_id: voltsy

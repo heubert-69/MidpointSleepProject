@@ -1,0 +1,16 @@
+Model_A,Model_B,Cliffs_delta,Magnitude
+RidgeRegression,HistGradientBoostingRegressor,0.13830347889952196,negligible
+RidgeRegression,ExtraTreesRegressor,0.12961655961906401,negligible
+RidgeRegression,XGBoostRegressor,0.13130638550122647,negligible
+RidgeRegression,LGBMRegressor,0.1368497564340289,negligible
+RidgeRegression,CatBoostRegressor,0.1315610399006342,negligible
+HistGradientBoostingRegressor,ExtraTreesRegressor,-0.012750427726636092,negligible
+HistGradientBoostingRegressor,XGBoostRegressor,-0.008478642337896032,negligible
+HistGradientBoostingRegressor,LGBMRegressor,-0.0001947853187522609,negligible
+HistGradientBoostingRegressor,CatBoostRegressor,-0.00873161028432754,negligible
+ExtraTreesRegressor,XGBoostRegressor,0.003930278661057524,negligible
+ExtraTreesRegressor,LGBMRegressor,0.011752047564719741,negligible
+ExtraTreesRegressor,CatBoostRegressor,0.0037160991330788475,negligible
+XGBoostRegressor,LGBMRegressor,0.007832730848007582,negligible
+XGBoostRegressor,CatBoostRegressor,-0.0003836680520877866,negligible
+LGBMRegressor,CatBoostRegressor,-0.00841793003075247,negligible

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/cd2776e11dcd458db042012fc234f31d/artifacts
+end_time: 1792604017138
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: cd2776e11dcd458db042012fc234f31d
+run_name: RidgeRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792603979795
+status: 3
+tags: []
+user_id: voltsy

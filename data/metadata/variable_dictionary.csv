@@ -1,0 +1,32 @@
+variable,source,description,role,primary_use,notes
+SEQN,DEMO,Participant sequence number,Identifier,Linkage,Unique participant identifier
+RIDAGEYR,DEMO,Age in years,Candidate confounder,Adjustment,Continuous
+RIAGENDR,DEMO,Sex,Candidate confounder,Adjustment,Categorical
+RIDRETH3,DEMO,Race/Hispanic origin,Candidate confounder,Adjustment,Categorical
+DMDEDUC2,DEMO,Education level,Candidate confounder,Adjustment,Adult education
+DMDMARTL,DEMO,Marital status,Candidate confounder,Sensitivity,Categorical
+INDFMPIR,DEMO,Family income-to-poverty ratio,Candidate confounder,Adjustment,Socioeconomic status
+sleep_onset_min,SLQ,Weekday sleep onset time,Exposure component,Primary exposure,Derived from SLQ300
+wake_time_min,SLQ,Weekday wake time,Exposure component,Primary exposure,Derived from SLQ310
+sleep_midpoint_min,SLQ,Weekday sleep midpoint,Exposure,Primary exposure,Circular 24-hour variable
+midpoint_sin,Derived,Circular sine representation of sleep midpoint,Exposure,Primary exposure,24-hour periodic representation
+midpoint_cos,Derived,Circular cosine representation of sleep midpoint,Exposure,Primary exposure,24-hour periodic representation
+sleep_duration_derived,SLQ,Duration reconstructed from sleep and wake time,Sleep variable,Secondary exposure,Derived
+SLD012,SLQ,Reported weekday sleep duration,Sleep variable,Secondary exposure,Self-reported
+LBXGH,GHB,HbA1c,Outcome,Primary outcome,Continuous glycemic outcome
+LBXGLU,GLU,Fasting glucose,Outcome,Secondary outcome,Fasting subsample
+LBXIN,INS,Fasting insulin,Outcome,Secondary outcome,Fasting subsample
+BMXBMI,BMX,Body mass index,Potential mediator,Secondary analysis,Do not automatically adjust
+BMXWAIST,BMX,Waist circumference,Potential mediator,Secondary analysis,Do not automatically adjust
+SBP_mean,BPX,Mean available systolic blood pressure,Potential mediator,Secondary analysis,Do not automatically adjust
+DBP_mean,BPX,Mean available diastolic blood pressure,Potential mediator,Secondary analysis,Do not automatically adjust
+PAD680,PAQ,Minutes spent sitting per day,Candidate mediator/confounder,Secondary analysis,Causal role requires DAG justification
+ALQ130,ALQ,Average alcohol drinks on days drinking,Candidate confounder/mediator,Secondary analysis,High missingness
+SMQ020,SMQ,Smoking history,Candidate confounder,Adjustment candidate,Low missingness
+DPQ_TOTAL,DPQ,PHQ-9 depression score,Potential mediator/confounder,Secondary analysis,High missingness
+DIQ010,DIQ,Doctor told participant they have diabetes,Potential mediator/confounder,Secondary analysis,Do not automatically adjust
+WTINT2YR,DEMO,Interview sample weight,Survey design,Survey analysis,2-year interview weight
+WTMEC2YR,DEMO,MEC examination weight,Survey design,Survey analysis,2-year MEC weight
+WTSAF2YR,GLU/INS,Fasting subsample weight,Survey design,Secondary outcome,Fasting subsample
+SDMVPSU,DEMO,Masked variance pseudo-PSU,Survey design,Survey analysis,Complex survey design
+SDMVSTRA,DEMO,Masked variance stratum,Survey design,Survey analysis,Complex survey design

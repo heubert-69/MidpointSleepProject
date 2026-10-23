@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/9594985cf0b24cc8920b2f04c237554c/artifacts
+end_time: 1792413742993
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: 9594985cf0b24cc8920b2f04c237554c
+run_name: HistGradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792413698989
+status: 3
+tags: []
+user_id: voltsy

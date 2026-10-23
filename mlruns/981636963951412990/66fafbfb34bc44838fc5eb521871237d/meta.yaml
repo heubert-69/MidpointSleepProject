@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/66fafbfb34bc44838fc5eb521871237d/artifacts
+end_time: 1792412662164
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: 66fafbfb34bc44838fc5eb521871237d
+run_name: ExtraTreesRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792412592347
+status: 3
+tags: []
+user_id: voltsy

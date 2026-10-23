@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/2d6f1620722e4c4caa9c373528e50ae2/artifacts
+end_time: 1792412780094
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: 2d6f1620722e4c4caa9c373528e50ae2
+run_name: LGBMRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792412720894
+status: 3
+tags: []
+user_id: voltsy

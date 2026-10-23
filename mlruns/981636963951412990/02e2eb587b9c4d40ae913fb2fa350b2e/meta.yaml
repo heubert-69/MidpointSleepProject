@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SleepProject/mlruns/981636963951412990/02e2eb587b9c4d40ae913fb2fa350b2e/artifacts
+end_time: 1792517751297
+entry_point_name: ''
+experiment_id: '981636963951412990'
+lifecycle_stage: active
+run_id: 02e2eb587b9c4d40ae913fb2fa350b2e
+run_name: XGBoostRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792517712667
+status: 3
+tags: []
+user_id: voltsy
